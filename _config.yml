@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "juntyr.github.io"
 title_separator          : "-"
 name                     : &name "Juniper Tyree"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=-K2OXesAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7923-9609"
   semantic         : # URL
