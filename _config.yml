@@ -25,7 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Juniper Tyree"
   pronouns         : "they/she" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at the University of Helsinki. MSc from UH, MEng from Imperial College London."
+  bio1             : "Climate computing, data compression, computational ecology, open science and software."
+  bio2             : "Rust, Python, and WebAssembly open-source developer, vegan, climate conscious."
+  bio3             : "*368ppm."
   location         : "Helsinki"
   employer         : "University of Helsinki"
   uri              : # URL
