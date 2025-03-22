@@ -1,6 +1,6 @@
 ---
 title: "PPT Undergraduate Teaching Assistant"
-collection: assistant
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-ppt-uta
 venue: "Imperial College London, Department of Computing"
