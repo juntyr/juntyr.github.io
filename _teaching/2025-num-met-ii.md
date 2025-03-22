@@ -1,5 +1,5 @@
 ---
-title: "Numerical Meteorology II Teaching Assistant"
+title: "2025 Numerical Meteorology II Teaching Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-num-met-ii
