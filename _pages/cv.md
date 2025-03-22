@@ -89,11 +89,29 @@ Funding
 ======
 * 2023-2026: 100% PhD salary, from: ESiWACE3, Center of excellence for weather and climate phase 3. Horizon EuroHPC. Available from: [doi:10.3030/101093054](https://doi.org/10.3030/101093054).
 
-Publications
-======
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        <ul>
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+    {% if title_shown %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% else %}
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
+{% endif %}
   
 Presentations
 ======
