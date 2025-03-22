@@ -11,6 +11,7 @@ location: "Helsinki, Finland"
 * 2024/01 - 2024/03
 * Weekly exercise sessions
 * Grading and feedback for the exercises
+* Helped prepare and supervise the exam
 * Responsible Teachers:
   * Dr Madeleine Ekblom, University of Helsinki
   * Prof. Heikki J. Järvinen, University of Helsinki
