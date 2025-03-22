@@ -1,5 +1,5 @@
 ---
-title: "Sustainable.now Teaching Assistant"
+title: "2023 Sustainable.now Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-sustainable-now
