@@ -1,5 +1,5 @@
 ---
-title: "PPT Undergraduate Teaching Assistant"
+title: "2019 PPT Undergraduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-ppt-uta
