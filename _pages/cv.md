@@ -24,20 +24,56 @@ Language Skills
 
 Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023/05-: Doctoral Researcher
+  * University of Helsinki, Institute for Atmospheric and Earth System Research
+  * Investigating safe lossy data compression for weather and climate model data
+  * Supervisors:
+    * Prof. Heikki J. Järvinen, University of Helsinki
+    * Dr Milan Klöwer, University of Oxford
+  * Thesis Committee:
+    * Prof. Michale Boy, University of Helsinki, LUT University
+    * Prof. James Rosindell, Imperial College London
+    * Dr Holger Pirk, Imperial College London
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022/09-2023/04: Research Assistant
+  * University of Helsinki, Institute for Atmospheric and Earth System Research
+  * Investigated Out-of-Distribution Detection, Uncertainty Quantification, and Response Surface Modelling for a 1D atmospheric transport chemistry and aerosol process model, SOSAA
+  * Implemented a graphical user interface to configure and run the SOSAA model
+  * Supervisors:
+    * Prof. Michael Boy, University of Helsinki, LUT University
+    * Dr Andreas Rupp, LUT University
+    * Petri Clusius, University of Helsinki
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022/05-2022/09: Research Assistant
+  * University of Helsinki, Department of Computing
+  * Investigated dimensionality reduction for eXplainable AI for molecular data
+  * Implemented a WebAssembly-based serverless data analysis and visualisation platform, xiplot
+  * Supervisors:
+    * Prof. Kai Puolamäki, University of Helsinki
+    * Anton Björklund, University of Helsinki
+
+* 2020/04-2020/09: Industrial Placement
+  * EMBL-EBI (European Bioinformatics Institute)
+  * Automated and streamlined the curation process of the identifiers.org platform
+  * Supervisors:
+    * Henning Hermjakob, European Bioinformatics Institute
+    * Manuel Bernal Llinares, European Bioinformatics Institute
+
+* 2019/08-2019/09: Undergraduate Research Opportunity
+  * Imperial College London, Department of Life Sciences
+  * Investigated neutral simulations of species richness and extended the analytical description to account for endemic islands and the transition from endemicity to migration
+  * Co-implemented the Gillespie algorithm as an optimisation to the coalescence simulation
+  * Supervisors:
+    * Prof. James Rosindell, Imperial College London
+    * Dr Lucas D. Fernandes, Imperial College London
+
+* 2017-2021: Group project leader
+  * Imperial College London, Department of Computing
+  * Developed & optimised a scalable peer-to-peer collaborative drawing Web App using conflict-free replicated data types (CRDTs) and WebRTC
+  * Iteratively designed and user-tested the first prototype for the Octopus science publishing platform, <https://www.octopus.ac/>
+  * Developed an optimising compiler with an error recovering frontend for the WACC language in Rust
+  * Implemented system-level thread scheduling, system calls and virtual memory for PintOS in C
+  * Created an assembler and emulator for the Raspberry Pi and its GPIO pins in C to develop a game
 
 Teaching Experience
 ======
