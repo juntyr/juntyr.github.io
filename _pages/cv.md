@@ -98,18 +98,14 @@ Funding
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        <ul>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single-cv.html %}
     {% endfor %}
-    {% if title_shown %}
-      </ul>
-    {% endif %}
   {% endfor %}
 {% else %}
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endif %}
   
