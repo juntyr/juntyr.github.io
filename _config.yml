@@ -86,6 +86,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  theses:
+    title: 'Theses'
+  reports:
+    title: 'Technical Reports'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
