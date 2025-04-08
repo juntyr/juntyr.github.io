@@ -67,7 +67,7 @@ Work Experience
     * Prof. James Rosindell, Imperial College London
     * Dr Lucas D. Fernandes, Imperial College London
 
-* 2017-2021: Group project leader
+* 2017-2021: Group leader in curriculum group projects
   * Imperial College London, Department of Computing
   * Developed & optimised a scalable peer-to-peer collaborative drawing Web App using conflict-free replicated data types (CRDTs) and WebRTC
   * Iteratively designed and user-tested the first prototype for the Octopus science publishing platform, <https://www.octopus.ac/>
