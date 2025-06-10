@@ -113,6 +113,7 @@ Professional Contributions
 
 Awards and Honours
 ======
+* Winner of the Three Minute Thesis (3MT) Competition, University of Helsinki, 2025
 * Governor’s MEng Prize in Computing to the final year student with the best overall performance, Imperial College London, 2020-2021
 * Dean’s List (Year 4), Imperial College London, 2020-2021
 * Aspect Capital Prize for an outstanding final year undergraduate individual projectImperial College London, 2020-2021
