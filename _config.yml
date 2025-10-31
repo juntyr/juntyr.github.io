@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Juniper Tyree"
-  pronouns         : "they/she" # example: "she/her"  
+  pronouns         : "she/they" # example: "she/her"  
   bio              : "PhD Student at the University of Helsinki. MSc from UH, MEng from Imperial College London."
   bio1             : "Climate computing, data compression, computational ecology, open science and software."
   bio2             : "Rust, Python, and WebAssembly open-source developer, vegan, climate conscious."
