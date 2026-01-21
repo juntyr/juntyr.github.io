@@ -109,7 +109,9 @@ Presentations
   
 Professional Contributions
 ======
-* Convener: Bouvier, C., Co-Conveners: Ray, W., Santoro, M., **Tyree, J.**, Borejko, W., Tinto, O., Faghih-Naini, S. (05/2025). Big Data in Earth System Sciences: The Challenges of Data Compression & Data Spaces in the cloud computing era. *EGU25 Session ESSI2.13*. Available from: <https://meetingorganizer.copernicus.org/EGU25/session/52084> [Accessed: 17th March 2025]
+* Convener: **Tyree, J.**, Co-Conveners: Bouvier, C., Faghih-Naini, S., and Tinto, O. (05/2026). Data compression and reduction for Earth System Sciences datasets in practice. *EGU26 Short Course SC2.5*. Available from: <https://www.egu26.eu/session/57884> [Accessed: 21st January 2026]
+* Convener: de Jong, K., Co-Conveners: **Tyree, J.**, Consoli, D., Caviedes-Voullième, D., Folch, A., and Carton de Wiart, C. (06/2025). High-performance computation in the geosciences. *EGU26 Session ESSI2.2*. Available from: <https://www.egu26.eu/session/57187> [Accessed: 21st January 2026]
+* Convener: Bouvier, C., Co-Conveners: Ray, W., Santoro, M., **Tyree, J.**, Borejko, W., Tinto, O., and Faghih-Naini, S. (05/2025). Big Data in Earth System Sciences: The Challenges of Data Compression & Data Spaces in the cloud computing era. *EGU25 Session ESSI2.13*. Available from: <https://meetingorganizer.copernicus.org/EGU25/session/52084> [Accessed: 17th March 2025]
 
 Awards and Honours
 ======
