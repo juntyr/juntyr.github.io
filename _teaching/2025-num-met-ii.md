@@ -11,5 +11,4 @@ location: "Helsinki, Finland"
 * 2025/03 - 2025/05
 * Weekly exercise sessions
 * Grading and feedback for the exercises
-* Responsible Teachers:
-  * Prof. Heikki J. Järvinen, University of Helsinki
+* Responsible Teacher: Prof. Heikki J. Järvinen, University of Helsinki
