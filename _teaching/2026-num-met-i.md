@@ -13,7 +13,8 @@ location: "Helsinki, Finland"
 * Prepared seven lectures on (not in order) the Shallow Water Equations, numerical methods in three Shallow Water models (1D linear, 1D non-linear, 2D non-linear), numerical stability, and sustainable scientific model code development
 * Developed an interative in-browser reference Shallow Water Model and deployed it to Moodle
 * Developed the teaching methods and learning activities and grading methods towards more collaborative learning and a more clearly constructively-aligned learning journey
+* Improved the pacing of lecture content and assignments
 * Grading and feedback for the learning diary reports
-* Prepared, supervised, and graded the exam
+* Developed new oral exam format
 * Instructed the new teaching assistant for the course
 * Responsible Teacher: **Juniper Tyree**, University of Helsinki
