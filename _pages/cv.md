@@ -109,6 +109,7 @@ Presentations
   
 Professional Contributions
 ======
+* Judge for the Three Minute Thesis (3MT) Competition, University of Helsinki, 2026
 * Convener: **Tyree, J.**, Co-Conveners: Bouvier, C., Faghih-Naini, S., and Tinto, O. (08.05.2026). Data compression and reduction for Earth System Sciences datasets in practice. *EGU26 Short Course SC2.5*. Available from: [doi:10.5281/zenodo.20136415](https://doi.org/10.5281/zenodo.20136415), [doi:10.5281/zenodo.20136040](https://doi.org/10.5281/zenodo.20136040), <https://github.com/climet-eu/egu26-compression-sc2-5>, and <https://meetingorganizer.copernicus.org/EGU26/session/57884> [Accessed: 7th May 2026].
 * Convener: de Jong, K., Co-Conveners: **Tyree, J.**, Consoli, D., Caviedes-Voullième, D., Folch, A., and Carton de Wiart, C. (08.05.2026). High-performance computation in the geosciences. *EGU26 Session ESSI2.2*. Available from: <https://meetingorganizer.copernicus.org/EGU26/session/57187> [Accessed: 7th M 2026].
 * Convener: Bouvier, C., Co-Conveners: Ray, W., Santoro, M., **Tyree, J.**, Borejko, W., Tinto, O., and Faghih-Naini, S. (01.05.2025). Big Data in Earth System Sciences: The Challenges of Data Compression & Data Spaces in the cloud computing era. *EGU25 Session ESSI2.13*. Available from: <https://meetingorganizer.copernicus.org/EGU25/session/52084> [Accessed: 17th March 2025].
