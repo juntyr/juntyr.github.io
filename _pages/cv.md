@@ -100,13 +100,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endfor %}
-  
+
 Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Supervision
+======
+* Sidoroff, S. (2026). *Solutions to Data Volume Problem in Earth System Modelling*. Master's Thesis in the Master’s Programme in Computer Science, University of Helsinki. Supervisors: Prof. Veli Mäkinen and **Juniper Tyree**. Available from: <http://hdl.handle.net/10138/639571>.
+
 Professional Contributions
 ======
 * Judge for the Three Minute Thesis (3MT) Competition, University of Helsinki, 2026
