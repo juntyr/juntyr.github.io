@@ -109,7 +109,7 @@ Presentations
 
 Supervision
 ======
-* Sidoroff, S. (2026). *Solutions to Data Volume Problem in Earth System Modelling*. Master's Thesis in the Master’s Programme in Computer Science, University of Helsinki. Supervisors: Prof. Veli Mäkinen and **Juniper Tyree**. Available from: <http://hdl.handle.net/10138/639571>.
+* Sidoroff, S. (2026). *Solutions to Data Volume Problem in Earth System Modelling*. Master's Thesis in the Master's Programme in Computer Science, University of Helsinki. Supervisors: Prof. Veli Mäkinen and **Juniper Tyree**. Available from: <http://hdl.handle.net/10138/639571>.
 
 Professional Contributions
 ======
@@ -120,11 +120,12 @@ Professional Contributions
 
 Awards and Honours
 ======
-* Winner of the Three Minute Thesis (3MT) Competition, University of Helsinki, 2025
-* Governor’s MEng Prize in Computing to the final year student with the best overall performance, Imperial College London, 2020-2021
-* Dean’s List (Year 4), Imperial College London, 2020-2021
+* Outstanding Student and PhD candidate Presentation (OSPP) Award, EGU 26 General Assembly, 2026. Available from <https://www.egu.eu/awards-medals/ospp-award/2026/juniper-tyree/> [Accessed: 16th November 2026]
+* Winner of the Three Minute Thesis (3MT) Competition, University of Helsinki, 2025. Available from: <https://www.helsinki.fi/en/research/doctoral-school/doctoral-experience-week/three-minute-thesis> [Accessed: 16th November 2026]
+* Governor's MEng Prize in Computing to the final year student with the best overall performance, Imperial College London, 2020-2021
+* Dean's List (Year 4), Imperial College London, 2020-2021
 * Aspect Capital Prize for an outstanding final year undergraduate individual projectImperial College London, 2020-2021
-* Dean’s List (Year 3), Imperial College London, 2019-2020
+* Dean's List (Year 3), Imperial College London, 2019-2020
 * G-Research Prize for academic excellence, Imperial College London, 2019-2020
 * David Howarth Group Project Prize for excellence in group projects in the third year, Imperial College London, 2019-2020
 * G-Research Prize for academic excellence, Imperial College London, 2018-2019
