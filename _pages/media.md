@@ -5,6 +5,11 @@ permalink: /media/
 author_profile: true
 ---
 
+News Item: Juniper Tyree Recognised with a 2026 EGU Award
+======
+
+ESiWACE3. (2026). *Juniper Tyree Recognised with a 2026 EGU Award*. Available from: <https://www.esiwace.eu/news/juniper-tyree-recognised-with-a-2026-egu-award/> [Accessed: 16th November 2026].
+
 Video: ESiWACE3 Data Compression Laboratory
 ======
 
