@@ -12,7 +12,7 @@ citation: '<b>Tyree, J.</b>, Underwood, R., Bouvier, C., Köhler, D., Reichelt, 
 
 ## Abstract
 
-The growth in data volumes produced by scientific models is accelerating. Data production of high-resolution weather and climate models is outpacing the methods and budgets for storing, sharing, and analysing this data, posing a threat to scientific progress. Lossy data compression greatly reduces data sizes but loses some quality, detail, or precision of the original data. Even though some lossy compressors promise size reductions of 100x or more, the lack of trust in lossy compression, rooted in the risk of losing important information, has thus far limited their adoption.
+The growth in data volumes produced by scientific models is accelerating. Data production of high-resolution weather and climate models is outpacing the methods and budgets for storing, sharing, and analysing this data, posing a threat to scientific progress. Lossy data compression greatly reduces data sizes but loses some quality, detail, or precision of the original data. Even though some lossy compressors promise size reductions of 100× or more, the lack of trust in lossy compression, rooted in the risk of losing important information, has thus far limited their adoption.
 
 We introduce Compression Safeguards, a user-centric and domain-independent framework to overcome this trust gap, with which
 
