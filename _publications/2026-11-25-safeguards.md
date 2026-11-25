@@ -1,7 +1,7 @@
 ---
 title: "Compression Safeguards: building trust into lossy data compression"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2026-11-25-safeguards
 excerpt: 'We introduce Compression <i>Safeguards</i>, a user-centric and domain-independent framework to overcome this trust gap. Safeguards can unlock the data reduction benefits of lossy compression and therefore solve many data storage problems across the scientific community that otherwise hinder research.'
 date: 2026-11-25
